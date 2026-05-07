@@ -1,3 +1,3 @@
 ---
-title: Calyx's Research Blog
+title: My Research Blog
 ---
